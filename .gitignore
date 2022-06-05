@@ -24,4 +24,4 @@ yarn-error.log*
 
 # sem trava de versão
 
-package-lock.json
+package-lock.json 
